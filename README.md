@@ -12,6 +12,7 @@
 |Week of Dec. 26| [An Introduction to Mirror Descent](https://drive.google.com/file/d/1K5WV32jVcdA2BpfaUsVKX-gVE4klpvia/view?usp=sharing) | Tao Li |  ||
 |  Week of Jan. 1    | [Two High Probability Bounds on Mirror Descent]()   |    Yunian Pan  |          |   |
 |  Week of Jan. 15    | [Two Interpretations of Nesterov Acceleration]()   |    Yunian Pan  |          |   |
+|Week of Jan. 22| [On the Information Structures in Mirror Descent]()| Tao Li|||
 |  Week of Jan. 29    | [Revisiting Small-Ball Methods]()   |    Yunian Pan  |          |   |
 
 
