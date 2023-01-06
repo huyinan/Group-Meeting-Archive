@@ -15,7 +15,7 @@
 |  Week of Jan. 15    | [Two Interpretations of Nesterov Acceleration]()   |    Yunian Pan  |          |   |
 |Week of Jan. 22| [On the Information Structures in Mirror Descent]()| Tao Li|||
 |  Week of Jan. 29    | [Revisiting Small-Ball Methods]()   |    Yunian Pan  |          |   |
-|Week of Feb. 12|[From Equilibrium to Non-Equilibrium Analysis in Mirror Descent]|Tao Li|||||
+|Week of Feb. 12|[From Equilibrium to Non-Equilibrium Analysis in Mirror Descent]()|Tao Li|||||
 
 
 
