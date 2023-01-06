@@ -4,7 +4,7 @@
 ## 2022 Fall- 2023 Spring
 | Date                | Title                | Presenter(s) | Comments |   |
 |---------------------|----------------------|--------------|----------|---|
-|  Week of Sept. 5    |                      |    Shutian Liu  |          |   |
+|  Week of Sept. 5    |  [Risk Preferences and Cyber Insurance](https://drive.google.com/file/d/15IAQqfdV_uO8E94WOJFYHeE_jGdyLMFg/view?usp=sharing)  |    Shutian Liu  |          |   |
 |  Week of Oct. 17    | [On Poisoned Wardrop Equilibrium in Congestion Games]()   |    Yunian Pan  |          |   |
 |  Week of Sept. 12   | [An Introduction to Larx Lab](https://drive.google.com/file/d/12djfHzpzuWJJVDN55ZGi3KrFQNAj-IKO/view?usp=sharing) |  Tao Li|   [NYU research safety website](https://www.nyu.edu/life/safety-health-wellness/research-and-laboratory-safety.html)  |   | 
 | Week of Nov. 14 | [Meta-Learning and Stackelberg Games](https://drive.google.com/file/d/1wseX_fCLCsANPX1lyTG33SLnq6Q5265L/view?usp=sharing) | Yuhan Zhao | | |
