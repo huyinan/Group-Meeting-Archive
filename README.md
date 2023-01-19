@@ -1,7 +1,7 @@
 # Group-Meeting-Archive 2022-2023 Academic Year
 # To avoid large file limit at github, the slides are currently hosted at google drives (NYU drive). We are working on this issue. 
 
-## 2022 Fall- 2023 Spring
+## 2022 Fall
 | Date                | Title                | Presenter(s) | Comments |   |
 |---------------------|----------------------|--------------|----------|---|
 |  Week of Sept. 5    |  [Risk Preferences and Cyber Insurance](https://drive.google.com/file/d/15IAQqfdV_uO8E94WOJFYHeE_jGdyLMFg/view?usp=sharing)  |    Shutian Liu  |          |   |
@@ -13,6 +13,10 @@
 |  Week of Dec. 12   | [Talagrand Concentration Inequality]()|    Yunian Pan  |     Seminar series     |   |
 |  Week of Dec. 19    | [Theoretical Analysis for Quarantine in Epidemic with Stochastic Blockmodel Approximation](https://drive.google.com/file/d/16lwhjE60E6YHX4v5oJRQju_4ebehwDT0/view?usp=sharing)   |    Xiangjiang Yang  |     Seminar series      |   |
 |Week of Dec. 26| [An Introduction to Mirror Descent](https://drive.google.com/file/d/1K5WV32jVcdA2BpfaUsVKX-gVE4klpvia/view?usp=sharing) | Tao Li |  Seminar series ||
+
+## 2023 Spring
+| Date                | Title                | Presenter(s) | Comments |   |
+|---------------------|----------------------|--------------|----------|---|
 |  Week of Jan. 1    | [Nesterov Acceleration]()   |    Yunian Pan  |       Seminar series    |   |
 |  Week of Jan. 15    | [Stochastic Accelerated Mirror Descent]()   |    Yunian Pan  |      Seminar series     |   |
 |Week of Jan. 22| [On the Information Structures in Mirror Descent]()| Tao Li| Seminar series||
