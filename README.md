@@ -18,7 +18,7 @@
 | Date                | Title                | Presenter(s) | Comments |   |
 |---------------------|----------------------|--------------|----------|---|
 |  Week of Jan. 1    | [Nesterov Acceleration]()   |    Yunian Pan  |       Seminar series    |   |
-|  Week of Jan. 15    | [A General Recipe for Stochastic Mirror Descent]()   |    Yunian Pan  |      Seminar series     |   |
+|  Week of Jan. 15    | [A General Recipe for Stochastic Mirror Descent]()   |    Yunian Pan  |      Seminar series     |[Zoom recording](https://nyu.zoom.us/rec/share/ozSTZirxik7ni7nJS1wl0FuQx80480fUwKfvG2RajhzfVVrgwp83TllPvljCQQJL.F5zrYVdVq5OZ7gI5)   |
 |Week of Jan. 22| [On the Information Structures in Mirror Descent]()| Tao Li| Seminar series||
 |Week of Jan. 29| An invited Talk by Kim Hammar|[Kim Hammar](https://www.kth.se/profile/kimham)|||
 |  Week of Feb. 5    | [Revisiting Small-Ball Methods]()   |    Yunian Pan  |       Seminar series    |   |
