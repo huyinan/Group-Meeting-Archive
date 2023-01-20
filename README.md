@@ -24,6 +24,20 @@
 |  Week of Feb. 5    | [Revisiting Small-Ball Methods]()   |    Yunian Pan  |       Seminar series    |   |
 |Week of Feb. 12|[From Equilibrium to Non-Equilibrium Analysis in Mirror Descent]()|Tao Li| Seminar series|||
 |Week of Feb. 19|     |                       |               |          |    |
+|Week of Feb. 26|     |                       |               |          |    |
+|Week of Mar. 5 |     |                       |               |          |    |
+|Week of Mar. 12|     |                       |               |          |    |
+|Week of Mar. 19|     |                       |               |          |    |
+|Week of Mar. 26|     |                       |               |          |    |
+|Week of Apr. 2 |     |                       |               |          |    |
+|Week of Apr. 9 |     |                       |               |          |    |
+|Week of Apr. 16|     |                       |               |          |    |
+|Week of Apr. 23|     |                       |               |          |    |
+|Week of Apr. 30|     |                       |               |          |    |
+|Week of May 7  |     |                       |               |          |    |
+|Week of May 14 |     |                       |               |          |    |
+|Week of May 21 |     |                       |               |          |    |
+|Week of May 28 |     |                       |               |          |    |
 
 
 
