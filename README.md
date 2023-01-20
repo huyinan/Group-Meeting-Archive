@@ -23,6 +23,8 @@
 |Week of Jan. 29| An invited Talk by Kim Hammar|[Kim Hammar](https://www.kth.se/profile/kimham)|||
 |  Week of Feb. 5    | [Revisiting Small-Ball Methods]()   |    Yunian Pan  |       Seminar series    |   |
 |Week of Feb. 12|[From Equilibrium to Non-Equilibrium Analysis in Mirror Descent]()|Tao Li| Seminar series|||
+|Week of Feb. 19|     |                       |               |          |    |
+
 
 
 
