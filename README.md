@@ -10,15 +10,15 @@
 | Week of Nov. 14 | [Meta-Learning and Stackelberg Games](https://drive.google.com/file/d/1wseX_fCLCsANPX1lyTG33SLnq6Q5265L/view?usp=sharing) | Yuhan Zhao | | |
 |Week of Nov. 28| [An EEG Data-Driven Approach for the Analysis of Cognitive Nash Equilibrium](https://docs.google.com/presentation/d/1bB88g-FFVp2mQzFLlmyv80A1tBj5bJvD/edit?usp=share_link&ouid=108072553036143854923&rtpof=true&sd=true)| Patrick Yubeaton |  ||
 |  Week of Dec. 5   | [Level-k Meta-Reinforcement Learning for Pedestrian-Aware Self-Driving](https://docs.google.com/presentation/d/1D4j-NqLEy_7eNYKJTe3ECcFe590JyKrb/edit?usp=share_link&ouid=103638511263455437345&rtpof=true&sd=true)|    Haozhe Lei  |       |   |
-|  Week of Dec. 12   | [Talagrand Concentration Inequality]()|    Yunian Pan  |     Seminar series     |   |
+|  Week of Dec. 12   | [Talagrand Concentration Inequality](https://github.com/UnionPan/UnionPan.github.io/blob/master/posts/Talagrand/talagrand.pdf)|    Yunian Pan  |     Seminar series     |   |
 |  Week of Dec. 19    | [Theoretical Analysis for Quarantine in Epidemic with Stochastic Blockmodel Approximation](https://drive.google.com/file/d/16lwhjE60E6YHX4v5oJRQju_4ebehwDT0/view?usp=sharing)   |    Xiangjiang Yang  |          |   |
 |Week of Dec. 26| [An Introduction to Mirror Descent](https://drive.google.com/file/d/1K5WV32jVcdA2BpfaUsVKX-gVE4klpvia/view?usp=sharing) | Tao Li |  Seminar series ||
 
 ## 2023 Spring
 | Date                | Title                | Presenter(s) | Comments |   |
 |---------------------|----------------------|--------------|----------|---|
-|  Week of Jan. 1    | [Nesterov Acceleration]()   |    Yunian Pan  |       Seminar series    |   |
-|  Week of Jan. 15    | [A General Recipe for Stochastic Mirror Descent]()   |    Yunian Pan  |      Seminar series     |[Zoom recording](https://nyu.zoom.us/rec/share/ozSTZirxik7ni7nJS1wl0FuQx80480fUwKfvG2RajhzfVVrgwp83TllPvljCQQJL.F5zrYVdVq5OZ7gI5)   |
+|  Week of Jan. 1    | [Nesterov Acceleration](https://github.com/UnionPan/UnionPan.github.io/blob/master/posts/nesterov-acceleration/Group_Meeting_2023_Winter.pdf)   |    Yunian Pan  |       Seminar series    |   |
+|  Week of Jan. 15    | [A General Recipe for Stochastic Mirror Descent](https://github.com/UnionPan/UnionPan.github.io/blob/master/posts/A-General-Recipe/Group_Meeting_2023_Winter_probability_bound_of_mirror_descent.pdf)   |    Yunian Pan  |      Seminar series     |[Zoom recording](https://nyu.zoom.us/rec/share/ozSTZirxik7ni7nJS1wl0FuQx80480fUwKfvG2RajhzfVVrgwp83TllPvljCQQJL.F5zrYVdVq5OZ7gI5)   |
 |Week of Jan. 22| [On the Information Structures in Mirror Descent Part Two]()| Tao Li| Seminar series||
 |Week of Jan. 29| An invited Talk by Kim Hammar|[Kim Hammar](https://www.kth.se/profile/kimham)|||
 |  Week of Feb. 5    | [Revisiting Small-Ball Methods]()   |    Yunian Pan  |       Seminar series    |   |
