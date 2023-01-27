@@ -22,7 +22,7 @@
 |Week of Jan. 22| [On the Information Structures in Mirror Descent Part Two]()| Tao Li| Seminar series||
 |Week of Jan. 29| An invited Talk by Kim Hammar|[Kim Hammar](https://www.kth.se/profile/kimham)|||
 |  Week of Feb. 5    | [Revisiting Small-Ball Methods]()   |    Yunian Pan  |       Seminar series    |   |
-|Week of Feb. 12|[On the Information Structures in Mirror Descent Part Three]()|Tao Li| Seminar series|||
+|Week of Feb. 12|[On the Information Structures in Mirror Descent Part Three](https://drive.google.com/file/d/1j1_EnJyX2HhXbvIcMcNsBVJMEHh2O27x/view?usp=sharing)|Tao Li| Seminar series|||
 |Week of Feb. 19|     |                       |               |          |    |
 |Week of Feb. 26|     |                       |               |          |    |
 |Week of Mar. 5 |     |                       |               |          |    |
