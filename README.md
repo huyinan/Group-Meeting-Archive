@@ -14,7 +14,7 @@
 |  Week of Dec. 19    | [Theoretical Analysis for Quarantine in Epidemic with Stochastic Blockmodel Approximation](https://drive.google.com/file/d/16lwhjE60E6YHX4v5oJRQju_4ebehwDT0/view?usp=sharing)   |    Xiangjiang Yang  |          |   |
 |Week of Dec. 26| [An Introduction to Mirror Descent](https://drive.google.com/file/d/1K5WV32jVcdA2BpfaUsVKX-gVE4klpvia/view?usp=sharing) | Tao Li |  Seminar series ||
 
-## 2023 Spring
+## 2023 Spring [Zoom](https://nyu.zoom.us/j/96879705237)
 | Date                | Title                | Presenter(s) | Comments |   |
 |---------------------|----------------------|--------------|----------|---|
 |  Week of Jan. 1    | [Nesterov Acceleration](https://github.com/UnionPan/UnionPan.github.io/blob/master/posts/nesterov-acceleration/Group_Meeting_2023_Winter.pdf)   |    Yunian Pan  |       Seminar series    |   |
