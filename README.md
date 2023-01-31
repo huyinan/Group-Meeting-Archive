@@ -28,7 +28,7 @@
 |Week of Mar. 5 |     |                       |               |          |    |
 |Week of Mar. 12|     |                       |               |          |    |
 |Week of Mar. 19|     |                       |               |          |    |
-|Week of Mar. 26|     |                       |               |          |    |
+|Week of Mar. 26|  Gaslighting in Partially Observable Systems  | Liu Shutian                      |               |          |    |
 |Week of Apr. 2 |     |                       |               |          |    |
 |Week of Apr. 9 |     |                       |               |          |    |
 |Week of Apr. 16|     |                       |               |          |    |
