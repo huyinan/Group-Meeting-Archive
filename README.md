@@ -29,7 +29,7 @@
 |Week of Mar. 12|     |                       |               |          |    |
 |Week of Mar. 19|     |    Ya-ting and Haozhe                   |               |          |    |
 |Week of Mar. 26|  Gaslighting in Partially Observable Systems  | Liu Shutian                      |               |          |    |
-|Week of Apr. 2 |     |                       |               |          |    |
+|Week of Apr. 2 |     |    Tao Zhang                   |               |          |    |
 |Week of Apr. 9 |     |                       |               |          |    |
 |Week of Apr. 16|     |                       |               |          |    |
 |Week of Apr. 23|     |                       |               |          |    |
