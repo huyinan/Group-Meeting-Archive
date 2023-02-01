@@ -22,9 +22,9 @@
 |Week of Jan. 22| [On the Information Structures in Mirror Descent Part Two](https://drive.google.com/file/d/1j1_EnJyX2HhXbvIcMcNsBVJMEHh2O27x/view?usp=sharing)| Tao Li| Seminar series|[Zoom recording](https://zoom.us/rec/play/3jhk8jnCJ-X6wXelV8wXGSxZ4igrWgHa_vRlSefYvMMUtMgaGTwai9_KM-yoRlcRb3rdhHD8OdwkyOc6.l0QWSETAKV2Nx2tc?continueMode=true&iet=C6X_X7qtNmGoj1XSm_qdrRYWaPFdJYQWqbWjPoF2Fd8.AG._mStdqJRwawd2OICq1vOHgGhcVBypoizLZXvNttQb9CM_F6JfLTMKxC38OkR4Cgv4qOInxexMse779JLpQKr4FjsCol9bX1E8lrX4SULCYVuwStRSwI.Pc2otdCpMPrytWCRmECStQ.hAqgZE0oIOcVQOPP&_x_zm_rtaid=-jgti_ZIQoiNV_LOOOqwNg.1674852566185.7297f77f9a9ff9894206e130adf7d3cf&_x_zm_rhtaid=859)|
 |Week of Jan. 29| [Intrusion Response througn Optimal Stopping](https://ieeexplore.ieee.org/document/9779345)|[Kim Hammar](https://www.kth.se/profile/kimham)||[Zoom recording](https://zoom.us/rec/play/WSGTADhh7tTtTMbYdS5jgCFiugF87iDJ-oQMUQZfksytIzmEHwQE08YXH_icdm3IAIh_Fhy71Yn9dKvH.zNMosS8kXCERYsjJ?continueMode=true&iet=0nFz9exhZqqxm69DWRxz7-5NGD2rdz6T1avaamqtsWc.AG.cFASyY25dliqFyuIDMm7uG-fpL6soBpIz7xlhPgtmzxpX_nvGJF_KFhovnFsHtYrPHoAOV1iXQrqc2nOWvvo6Pia0kexygfYeW0moos39khiFzonnRA.fibFbp-uAylUBKWMtHJ7JA.mxOCgTNgB7gFKdAp) |
 |  Week of Feb. 5    | [Revisiting Small-Ball Methods]()   |    Yunian Pan  |       Seminar series    |   |
-|Week of Feb. 12|[On the Information Structures in Mirror Descent Part Three]()|Tao Li| Seminar series|||
+|Week of Feb. 12|     |[Abhishek N. Kulkarni](https://akulkarni.me/)| |||
 |Week of Feb. 19|     |   [Khushboo Agarwal](https://www.ieor.iitb.ac.in/students/khushboo)                    |               |          |    |
-|Week of Feb. 26|     |                       |               |          |    |
+|Week of Feb. 26|  [On the Information Structures in Mirror Descent Part Three]()   |       Tao Li             |     Seminar series          |          |    |
 |Week of Mar. 5 |     |                       |               |          |    |
 |Week of Mar. 12|     |                       |               |          |    |
 |Week of Mar. 19|     |                       |               |          |    |
