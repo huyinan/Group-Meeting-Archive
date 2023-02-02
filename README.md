@@ -33,7 +33,7 @@
 |Week of Apr. 9 |     |    Xiangjiang and Patrick                  |               |          |    |
 |Week of Apr. 16|     |                       |               |          |    |
 |Week of Apr. 23|     |                       |               |          |    |
-|Week of Apr. 30|     |                       |               |          |    |
+|Week of Apr. 30|     |        Yinan Hu               |               |          |    |
 |Week of May 7  |     |                       |               |          |    |
 |Week of May 14 |     |                       |               |          |    |
 |Week of May 21 |     |                       |               |          |    |
