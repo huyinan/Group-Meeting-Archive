@@ -25,7 +25,7 @@
 |Week of Feb. 12|     |[Abhishek N. Kulkarni](https://akulkarni.me/)| |||
 |Week of Feb. 19|     |   [Khushboo Agarwal](https://www.ieor.iitb.ac.in/students/khushboo)                    |               |          |    |
 |Week of Feb. 26|  [On the Information Structures in Mirror Descent Part Three]()   |       Tao Li             |     Seminar series          |          |    |
-|Week of Mar. 5 |     |                       |               |          |    |
+|Week of Mar. 5 |  AI Insurance   |    Yunfei Ge                   |               |          |    |
 |Week of Mar. 12|     |    Yuhan Zhao         |               |          |    |
 |Week of Mar. 19|     |    Ya-ting and Haozhe                   |               |          |    |
 |Week of Mar. 26|  Gaslighting in Partially Observable Systems  | Liu Shutian                      |               |          |    |
